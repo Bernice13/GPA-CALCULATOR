@@ -1,0 +1,16 @@
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.csprojAssemblyReference.cache
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.AssemblyInfoInputs.cache
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.AssemblyInfo.cs
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bernice\Desktop\GPACalculator\bin\Debug\net5.0\GPACalculator.exe
+C:\Users\Bernice\Desktop\GPACalculator\bin\Debug\net5.0\GPACalculator.deps.json
+C:\Users\Bernice\Desktop\GPACalculator\bin\Debug\net5.0\GPACalculator.runtimeconfig.json
+C:\Users\Bernice\Desktop\GPACalculator\bin\Debug\net5.0\GPACalculator.runtimeconfig.dev.json
+C:\Users\Bernice\Desktop\GPACalculator\bin\Debug\net5.0\GPACalculator.dll
+C:\Users\Bernice\Desktop\GPACalculator\bin\Debug\net5.0\ref\GPACalculator.dll
+C:\Users\Bernice\Desktop\GPACalculator\bin\Debug\net5.0\GPACalculator.pdb
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.dll
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\ref\GPACalculator.dll
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.pdb
+C:\Users\Bernice\Desktop\GPACalculator\obj\Debug\net5.0\GPACalculator.genruntimeconfig.cache
